@@ -5,7 +5,7 @@ This project is a webpage about brazil's nature
     <li>CSS</li>
     <li>Bootstrap</li>
 </ul>
-**Usage**
+<b>Usage</b>
 
 This website works as any other site on the internet.
 
