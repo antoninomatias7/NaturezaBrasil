@@ -19,4 +19,4 @@ Flora talks aboaut about brazil's flora and biomes.
 
 Sobre is all about why the page was created.
 
-Contanto is just the way to contact the page's owner.
+Contato is just the way to contact the page's owner.
