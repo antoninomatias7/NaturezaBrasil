@@ -5,7 +5,7 @@ This project is a webpage about brazil's nature
     <li>CSS</li>
     <li>Bootstrap</li>
 </ul>
-## Usage
+# Usage
 This website works as any other site on the internet.
 At the top of the site you can find the page navigator, where you can change pages and get more information
 The home page briefly talks about what the site is about.
