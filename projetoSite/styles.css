@@ -19,12 +19,12 @@ a.topnav:hover{
 
 article.content-article{
     font-size: 24px;
-    padding: 1% 10% 15% 5%;
+    padding: 1% 1% 15% 5%;
 }
 
 main.container{
     background-color: antiquewhite;
-    margin: 1% 15% 5% 9%;    
+    margin: 1% 15% 5% 15%;    
 }
 
 body{
@@ -39,6 +39,12 @@ body{
     width: 35% ;
     margin: 0px 20% 0px 35%;
 }
+
+.biomes{
+    width: 35% ;
+    margin: 0px 20% 0px 35%;
+}
+
 
 input[type=text], input[type=email], textarea {
     width: 100%;
@@ -78,7 +84,7 @@ footer {
     text-align: center;
     background-color: antiquewhite;
     padding: 20px 0px 20px 0px;
-    margin: 5% 15% 2% 15%;
+    margin: 1% 15% 1% 14%;
 }
 
 svg.socialmedia{
@@ -109,7 +115,7 @@ svg.socialmedia{
 
 .timeDiv{
     position: relative;
-    left: 72%;
+    left: 77%;
     margin: 10px 50px 0px 50px;
 }
 .present{
@@ -117,6 +123,7 @@ svg.socialmedia{
     height: 1%;
     width: 2%;
     border-radius: 25px;
+    border: solid rgb(14, 206, 212);
 }
 
 .present:hover{
