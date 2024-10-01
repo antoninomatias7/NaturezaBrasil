@@ -28,7 +28,7 @@ main.container{
 }
 
 body{
-    background-image: url(/projetoSite/img/site-background.jfif);
+    background-image: url(/NaturezaBrasil/img/site-background.jfif);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -132,3 +132,33 @@ svg.socialmedia{
     padding: 2px;
     border: 1px double;
 }
+
+body.wizardContainer {
+    background-color: #000000;
+    background-image: none;
+}
+
+img.timeWizard {
+    position: relative;
+    width: 25%;
+    top: 250px;
+    left: 35%;
+    right: 35%;
+}
+
+svg.timeWizard {
+    color: #36005a;
+    position:absolute;
+    height: 30px;
+    width: 30px;
+    bottom: 15%;
+    left: 47%;
+    right: 35%;
+    border-radius: 25px;
+}
+
+svg.timeWizard:hover {
+    border: dotted rgb(255, 65, 255);
+    color: plum;
+}
+
