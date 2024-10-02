@@ -15,7 +15,7 @@ The home page briefly talks about what the site is about.
 
 The fauna page talks about brazil's animals.
 
-Flora talks aboaut about brazil's flora and biomes.
+Flora talks about brazil's flora and biomes.
 
 Sobre is all about why the page was created.
 
